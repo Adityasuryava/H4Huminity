@@ -1,0 +1,7 @@
+node_modules
+scripts
+*.log
+.git
+README.md
+src/**/*.map
+dist/**/*.map
